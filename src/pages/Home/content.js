@@ -1,130 +1,130 @@
 export default {
   banner: {
-    title: `We're Building The \nNew Internet`,
-    desc: '[Freedom](/#freedom) of expression, [control](/#control) of personal data, [private and secure](/#privacy) communications; and a whole new [economy](/#economy). Welcome to the SAFE Network.',
+    title: `Wij Bouwen Het \nNieuwe Internet`,
+    desc: '[De vrijheid](/#freedom) van meningsuiting, [controle](/#control) over persoonlijke gegevens, [prive en veilige](/#privacy) communicatie; en een compleet nieuwe [economie](/#economy). Welkom bij SAFE Network.',
     aside: {
-      para: 'Using spare bandwidth and unused disk space on home computers and phones, we’re taking the web off corporate servers, out of government control, and back into the hands of people.',
+      para: 'Doormiddel gebruikt te maken van vrije bandbreedte of ruimte op je computers hardeschijf en telefoon, brengen wij het huidige web zoals die nu wordt gehost op conventionele servers terug in een vrije vorm welke buiten het bereik van overheden en regulatie valt en terug in de handen van de gebruikers.',
       CTA: {
-        name: 'See how it works',
+        name: 'Zie hoe het werkt',
         url: '/how-it-works/'
       }
     },
   },
   freedom: {
-    title: 'Decentralised & Autonomous: \nFreedom of expression by design.',
+    title: 'Gedecentralizeerd & Autonoom: \nOntworpen voor de vrijheid van expressie',
     para: [
-      'Everyone should be able to collaborate freely and share ideas; free and unrestricted access to information for everyone around the world.',
-      'That’s why we’ve designed a system like no other: An autonomous network that runs itself, distributed across the globe, that can’t be shut down, controlled, or censored.'
+      'Iedereen zou het recht moeten hebben om vrij te kunnen samenwerken en ideeen te delen; gratis en ongelimiteerde toegang tot informatie voor iedereen ter wereld.',
+      'Dat is waarom wij een systeem hebben ontworpen zoals geen ander: Een autonoom netwerk dat zichzelf beheert, verspreid over de wereld, welke niet kan worden stilgelegd, beinvloed of kan worden gecensureerd.'
     ],
     CTA: {
-      name: 'What is an Autonomous Network?',
+      name: 'Wat is een Autonoom Netwerk?',
       url: '/faq/#what-is-an-autonomous-network'
     },
     founderQuote: {
-      para: `"Fixing the Internet isn't optional, and now there's a solution we can all be part of."`,
-      by: 'David Irvine — Founder'
+      para: `"Het verbeteren van het internet is niet optioneel, en nu is er een oplossing waar we allemaal deel van kunnen zijn."`,
+      by: 'David Irvine — Oprichter'
     },
     aside1: {
-      title: 'All information is equal',
-      para: 'All data on the network is treated the same, and everyone has equal and free access.  Net neutrality comes as standard.'
+      title: 'Alle informatie is gelijk',
+      para: 'Alle gegevens op een network wordt gelijk behandeld, en iedereen heeft gelijke en gratis toegang. Net neutraliteit komt als de standaard.'
     },
     aside2: {
-      title: 'Can’t be censored or shut down',
-      para: 'Because it’s autonomous, the SAFE Network can’t be turned off, blocked or controlled. It belongs to humanity.'
+      title: 'Het kan niet worden gecensureerd of beeindig',
+      para: 'Door de autonomiteit kan het SAFE Network niet uitgeschakeld worden, geblokeerd of beinvloed worden. Het behoort tot de mensheid.'
     }
   },
   privacy: {
-    title: 'Total Privacy, Absolute Security.',
+    title: 'Totale Privacy, Absolute Beveiliging.',
     para: [
-      'Privacy and security should be available to everyone, not just those with deep pockets.',
-      'That’s why the SAFE Network encrypts all data by default, automatically splitting it into many pieces which constantly move to locations around the globe that cannot be traced. And your access to them is untraceable too.',
-      ' No more hacked data, no more stolen passwords, no more eavesdropping. Private. Secure. Anonymous.'
+      'Privacy en beveiliging zouden voor iedereen toegangkelijk moeten zijn, niet alleen voor hun met een grote portemonee.',
+      'Dat is waarom het SAFE Network al haar gegevens standaard versleuteld, automatisch in vele delen splitst die constant naar locaties verplaatsen over de hele wereld en niet getraceerd kunnen worden. En uw gebruik en toegang is ook ontraceerbaar.',
+      'Gestolen gevevens, wachtenwoorden en afluisteren zijn allemaal verleden tijd. Prive. Beveiligd. Anoniem.'
     ],
     CTA: {
-      name: 'How does it work?',
+      name: 'Hoe werkt het?',
       url: '/how-it-works/'
     },
     quote: {
-      para: 'When we’re given the tools to communicate privately and securely we gain the freedom to collaborate and innovate all as one.'
+      para: 'Wanneer we de middelen krijgen om prive en veilig te kunnen communicieren winnen we onze vrijheid om samen te werken en te innoveren.'
     },
     aside1: {
-      title: 'Browse and access anonymously',
-      para: 'On the SAFE Network, you are free to browse and download completely anonymously, from anywhere in the world. No account necessary.'
+      title: 'Browse en bezoek anoniem',
+      para: 'Op het SAFE Network ben je vrij om compleet anoniem te browsen en te downoaden overal ter wereld. Zonder de benodigheid voor een account.'
     }
   },
   data: {
-    title: 'Complete Control of Your Data',
+    title: 'Complete Controle over Jou Personelijke Gegevens',
     para: [
-      'The SAFE Network turns the current data ownership model on its head.',
-      'Gone are the days of your personal information being stored on corporate servers. Self Authentication means you are in complete control over your data: it resides with you. Grant permission for apps to connect to it, and no company or third party ever has access. ',
+      'Het SAFE Network zet het huidige model van gegevens eigendom op zijn kop.',
+      'De dagen dat jou persononlijke gegevens op bedrijfsservers word opgeslagen is verleden tijd. Zelf Authenticatie betekend dat jij complete controle hebt over je eigen gegevens: het blijft bij jou. Geef toestemming aan applicaties om met jou gegeves te verbinden zonder een bedrijf of derde partij ooit toegang krijgt.',
     ],
     CTA: {
-      name: 'Read more about Self Authentication',
+      name: 'Lees meer over Zelf Authenticatie',
       url: 'faq/#what-is-self-authentication'
     },
     aside1: {
-      title: 'Pay Once, Store Forever',
+      title: 'Betaal een keer, sla het op voor altijd',
       para: [
-        'Upload your data and have it stored securely forever. Get free unrestricted access from any connected device around the world.',
-        'You’ll pay a minimal, one-time, upload charge but you’ll get permanent secure backups with no more monthly fees.'
+        'Upload jou gegevens en krijg het voor altijd veilig opgeslagen. Krijg gratis ongelimiteerde toegang vanaf iedere aangesloten apparaat overal ter wereld.',
+        'Betaald een minimale eenmalig upload bedrag en je ontvangt permanente veilige backups zonder de maandelijke extra kosten.'
       ]
     },
     aside2: {
-      title: 'One Password. For real this time.',
+      title: 'Een wachtwoord. Dit is de laatse keer dat je er een hebt.',
       para: [
-        'All apps are securely accessed from the single password used to create your account. Say goodbye to that password manager.',
+        'Al je apps zijn veilig te gebruiken met je enkele wachtwoord die je bij de account creatie maakt. Zeg vaarwel aan je wachtwoord manager.',
       ]
     },
     aside3: {
-      title: 'Data Portability',
+      title: 'Gegevensoverdraagbaarheid',
       para: [
-        'Being in complete control means you can quickly and easily move your data between apps and services. Mix and match to meet your needs, and leave no data behind.',
+        'Door in complete controle betekend dat je makkelijk en snel je gegevens tussen apps en services kan verplaatsen. Mix en match om aan uw behoeften te voldoen en laat geen gegevens achter.',
       ]
     },
     aside4: {
-      title: 'Dude, where’s my blockchain?',
+      title: 'Kerel, waar is mijn blockchain?',
       para: [
-        'No blockchain means endless scalability and instant transactions at network speed. Exactly what a global data network needs.',
+        'Geen blockchain betekend een oneindige schaalbaarheid en directe transacties met de snelheid van het netwerk. Precies wat een globaal data network nodig heeft.',
       ],
       CTA: {
-        name: 'Read more about the design',
+        name: 'Lees meer over het ontwerp',
         url: '/how-it-works/'
       }
     },
   },
   economy: {
-    title: 'The New Digital Economy',
+    title: 'De Nieuwe Digitale Economie',
     para: [
-      'Welcome to the new economy where you no longer pay for your digital life with your personal data.  Instead, you’ll use Safecoin, a crypto currency that is integrated into and distributed entirely by the network.',
-      'Users are compensated for providing their resources and can use this to pay developers to use their apps in a virtuous and self sustaining cycle.',
-      'SAFE is a network where wealth is shared based on the value that everyone provides.'
+      'Welkom bij de nieuwe economie waar je niet langer met je persoonlijke gegevens je digitale leven betaald. In plaats daarvan betaal je met Safecoin, een crypto currency die in het netwerk geintegreerd is en ook compleet verdeeld wordt door het network.',
+      'Gebruikers worden gecompenseerd door hun ongebruikte opslagruimte aan te bieden en kunnen safecoin gebruiken als betaling om zo gebruik te maken van de apps die developers creeren in een deugdzame en zelfvoorzienende cyclus.',
+      'SAFE is een netwerk waar welvaard word gedeeld en is gebaseerd op de waarde die iedereen toevoegd.'
     ],
     CTA: {
-      name: 'Read more about Safecoin',
+      name: 'Lees meer over Safecoin',
       url: '/safecoin/'
     },
     aside1: {
-      title: 'Always Free to Access',
+      title: 'Altijd Gratis Om Te Gebruiken',
       para: [
-        'Information is always free to access. You’ll never be charged for browsing or downloading. The SAFE Network guarantees equal access to data for everyone. You don’t even need an account, just download the browser.',
+        'Informatie is altijd gratis om te gebruiken. Je hoeft nooit iets te betalen om te browsen of te downloaden. Het SAFE Network garandeert dat iedereen gelijke toegang heeft tot gegevens. Je hebt niet eens een account nodig, alleen de browser downloaden is al voldoende.',
       ]
     },
     aside2: {
-      title: 'The Perfect Market',
+      title: 'De Perfecte Markt',
       para: [
-        'As there is no human interaction, the Network autonomously creates a perfect market.  Prices are set continually dependent on available resources and user demand.',
+        'Door dat er geen menselijke interactie is, creeert het netwerk autonoom een perfecte markt. Prijzen worden continu bepaald door de beschikbaarheid van middelen en de vraag van de gebruiker.',
       ]
     },
     aside3: {
-      title: 'No Infrastructure Costs',
+      title: 'Geen Infrastructuur Kosten',
       para: [
-        'Without fixed infrastructure costs, each additional member of the network increases the utility and speed for everyone else. And the system rewards popular apps and websites with payments directly.',
+        'Zonder de vaste infrastructuur kosten, zal iedere extra gebruiker van het network het gebruik en de snelheid van het netwerk voor iedereen verhogen. En het systeem beloond populaire apps en websites direct met betalingen.',
       ]
     },
     aside4: {
-      title: 'Contribute Resources, Get Paid.',
+      title: 'Deel hardeschijf ruimte en krijg betaald.',
       para: [
-        'By running a Vault, you can offer the network your unused resources—like hard drive space and bandwidth—and automatically be rewarded with Safecoin.',
+        'Door een Vault te beheren, kun je het netwerk jou ongebruikte hardeschijf en bandbreedte aanbieden en automatisch worden beloond met Safecoin.',
       ]
     },
   }
